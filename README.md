@@ -12,7 +12,7 @@
 
 ## Development Toolchain
 
-- Xcode 12.4
+- Xcode 12.5
 - bundler: `gem install bundler`
 
 The following tools will be installed via bundler:
